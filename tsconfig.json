@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "esModuleInterop": true,
+    "lib": ["DOM", "ESNext", "Decorators"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "composite": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "isolatedModules": true,
+    "importHelpers": true,
+    "jsx": "preserve",
+    "noEmit": true,
+    "allowArbitraryExtensions": true,
+    "types": ["vite/client"]
+  }
+}
